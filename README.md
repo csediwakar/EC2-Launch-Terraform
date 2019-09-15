@@ -1,2 +1,2 @@
-# EC2-Launch-Terraform
-Sample code to launch and create an ec2 instance 
+# aws-infrastructure
+This will have the code to create the infrastructure in the AWS Account
